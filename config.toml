@@ -1,3 +1,29 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Emils Book Blog"
+theme = "paperesque"
+
+[[params.menu]]
+  name = "blog"
+  url = "posts/"
+
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+
+[[params.menu]]
+  name = "contact"
+  url = "contact/"
+
+[[params.topmenu]]
+name = "about"
+url = "about/"
+
+[[params.topmenu]]
+name = "contact"
+url = "contact/"
+
+[[params.topmenu]]
+name = "rss"
+url = "posts/index.xml"
