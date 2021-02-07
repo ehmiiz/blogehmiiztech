@@ -1,16 +1,16 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Emils Book Blog"
+title = "Ehmiiz.tech - A book blog"
 theme = "paperesque"
 copyright = "© 2021 Emil Larsson"
 
 [[params.menu]]
-  name = "blog"
+  name = "Blog"
   url = "posts/"
 
 
 [[params.menu]]
-  name = "about"
+  name = "About"
   url = "about/"
 
 [[params.topmenu]]

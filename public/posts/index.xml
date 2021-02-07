@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ehmiiz.tech - A book blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Ehmiiz.tech - A book blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2021 Emil Larsson</copyright>
+    <lastBuildDate>Sun, 07 Feb 2021 12:59:23 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Hobbit</title>
+      <link>http://example.org/posts/hobbit/</link>
+      <pubDate>Sun, 07 Feb 2021 12:59:23 +0100</pubDate>
+      
+      <guid>http://example.org/posts/hobbit/</guid>
+      <description>The Hobbit &amp;ndash; At Amazon
+  This book is amazing.</description>
+    </item>
+    
+    <item>
+      <title>LOTR: The Fellowship of the Ring</title>
+      <link>http://example.org/posts/lotr-for/</link>
+      <pubDate>Sun, 07 Feb 2021 12:51:50 +0100</pubDate>
+      
+      <guid>http://example.org/posts/lotr-for/</guid>
+      <description>LOTR: The Fellowship of the Ring &amp;ndash; At Amazon
+  This book is amazing.</description>
+    </item>
+    
+    <item>
+      <title>LOTR: The Two Towers</title>
+      <link>http://example.org/posts/lotr-ttt/</link>
+      <pubDate>Sun, 07 Feb 2021 12:49:09 +0100</pubDate>
+      
+      <guid>http://example.org/posts/lotr-ttt/</guid>
+      <description>LOTR: The Two Towers &amp;ndash; At Amazon
+  This book is amazing.</description>
+    </item>
+    
+    <item>
+      <title>LOTR: The Return of the King</title>
+      <link>http://example.org/posts/lotr-rotk/</link>
+      <pubDate>Sun, 07 Feb 2021 12:49:02 +0100</pubDate>
+      
+      <guid>http://example.org/posts/lotr-rotk/</guid>
+      <description>LOTR: The Return of the King &amp;ndash; At Amazon
+  This book is amazing.</description>
+    </item>
+    
+    <item>
+      <title>Life 3.0</title>
+      <link>http://example.org/posts/life-3.0/</link>
+      <pubDate>Sun, 07 Feb 2021 12:23:11 +0100</pubDate>
+      
+      <guid>http://example.org/posts/life-3.0/</guid>
+      <description>Here&amp;rsquo;s my first post: Life 3.0, Being human in the age of AI   Life 3.0 by Max Tegmark &amp;ndash; Life 3.0 At Amazon
+  Hej! Here&amp;rsquo;s my text.</description>
+    </item>
+    
+  </channel>
+</rss>
