@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Emils Book Blog"
 theme = "paperesque"
+copyright = "© 2021 Emil Larsson"
 
 [[params.menu]]
   name = "blog"
@@ -12,17 +13,9 @@ theme = "paperesque"
   name = "about"
   url = "about/"
 
-[[params.menu]]
-  name = "contact"
-  url = "contact/"
-
 [[params.topmenu]]
 name = "about"
 url = "about/"
-
-[[params.topmenu]]
-name = "contact"
-url = "contact/"
 
 [[params.topmenu]]
 name = "rss"

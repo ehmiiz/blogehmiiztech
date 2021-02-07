@@ -142,16 +142,16 @@ blockquote {
   color: white;
   box-shadow: 0 5px 5px -5px #777777;
   background: #00223E;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #00223E 80%, #FFA17F 80%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #00223E 80%, #FFA17F 80%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(135deg, #00223E 80%, #3F7FBF 80%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #00223E 80%, #3F7FBF 80%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .nav-bkg-50 {
   color: white;
   box-shadow: 0 5px 5px -5px #777777;
   background: #00223E;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #00223E 50%, #FFA17F 50%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #00223E 50%, #FFA17F 50%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(135deg, #00223E 50%, #3F7FBF 50%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #00223E 50%, #3F7FBF 50%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .nav-bkg a {
@@ -458,8 +458,8 @@ h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
   color: white;
   box-shadow: 0 5px 5px -5px #777777;
   background: #00223E;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(135deg, #00223E 85%, #FFA17F 85%);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(135deg, #00223E 85%, #FFA17F 85%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(135deg, #00223E 85%, #3F7FBF 85%);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(135deg, #00223E 85%, #3F7FBF 85%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .expander .button {
