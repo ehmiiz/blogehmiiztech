@@ -17,7 +17,8 @@ This book was surprisingly easy to read, and it’s in my opinion light-years be
 I read the entire book in Swedish, and although it’s only been a year since I read it, I already have an urge to re-read the whole book in English. The translations just don’t cut it for someone who’s interested in the lore of middle earth.  
 Although this book is less heavy on lore, and more focused on the telling of a great adventure.
 
-A recommendation from me would be, if you read the book to your child, the translated version is fine, but if you plan on reading the Hobbit for your own amusement, read the English version. 
+# A recommendation
+From me would be, if you read the book to your child, the translated version is fine, but if you plan on reading the Hobbit for your own amusement, read the English version. 
 
 I plan to read this book for my children, and hopefully they’ll get hooked on Tolkien’s world, just like I did by reading The Hobbit. 
 

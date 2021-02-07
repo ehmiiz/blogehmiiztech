@@ -1,7 +1,7 @@
 ---
 title: "Life 3.0"
 date: 2021-02-07T12:23:11+01:00
-draft: false
+draft: true
 ---
 # Here's my first post: Life 3.0, Being human in the age of AI
 {{< figure
