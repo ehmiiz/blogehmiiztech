@@ -48,6 +48,6 @@ In general, the book is not as “heavy” as you would expect coming from a sup
 
 I would not recommend this book if you’re not interested in the subject, but if you are, it’s a great entry point. 
 
-I’ve read a few books on AI now, some of them are listed in the “upcoming” section of the blog, but I must say that Max Tegmark is probably the more pedagogical AI-book author then many others, and to that I am grateful.  
+I’ve read a few books on AI now, some of them are listed in the “up and coming” section of the blog, but I must say that Max Tegmark is probably the more pedagogical AI-book author then many others, and to that I am grateful.  
 
 I recommend reading this book if your interested in the subject of AI! 

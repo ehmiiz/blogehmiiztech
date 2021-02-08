@@ -9,8 +9,8 @@ copyright = "© 2021 Emil Larsson"
   url = "posts/"
 
   [[params.menu]]
-  name = "Up and comming"
-  url = "comming/"
+  name = "Up and coming"
+  url = "coming/"
 
 
 [[params.menu]]
