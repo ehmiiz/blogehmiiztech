@@ -8,6 +8,10 @@ copyright = "© 2021 Emil Larsson"
   name = "Books reviews"
   url = "posts/"
 
+  [[params.menu]]
+  name = "Up and comming"
+  url = "comming/"
+
 
 [[params.menu]]
   name = "About"
