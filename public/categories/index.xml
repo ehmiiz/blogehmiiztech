@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ehmiiz.tech - A book blog</title>
-    <link>http://example.org/categories/</link>
+    <link>http://blog.ehmiiz.tech/categories/</link>
     <description>Recent content in Categories on Ehmiiz.tech - A book blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2021 Emil Larsson</copyright><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2021 Emil Larsson</copyright><atom:link href="http://blog.ehmiiz.tech/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

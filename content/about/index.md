@@ -17,7 +17,7 @@ I'm a 28 year old guy who's writing this blog mostly to see how blogs can be bui
 * Knowledge sharing
 
 # [The making if the site](https://gohugo.io/)
-This blog was build using Hugo-Extended, make sure to check it out if your interested in developing static sites with version-control and an easy build chain!
+This blog was build using hugo, make sure to check it out if your interested in developing static sites with version-control and an easy build chain!
 
 
 # Contact

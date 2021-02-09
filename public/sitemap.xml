@@ -3,51 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-02-07T12:59:23+01:00</lastmod>
+    <loc>http://blog.ehmiiz.tech/</loc>
+    <lastmod>2021-02-08T08:23:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-02-07T12:59:23+01:00</lastmod>
+    <loc>http://blog.ehmiiz.tech/posts/life-3.0/</loc>
+    <lastmod>2021-02-08T08:23:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/hobbit/</loc>
-    <lastmod>2021-02-07T12:59:23+01:00</lastmod>
+    <loc>http://blog.ehmiiz.tech/posts/</loc>
+    <lastmod>2021-02-08T08:23:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/lotr-for/</loc>
+    <loc>http://blog.ehmiiz.tech/posts/lotr-for/</loc>
     <lastmod>2021-02-07T12:51:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/lotr-ttt/</loc>
-    <lastmod>2021-02-07T12:49:09+01:00</lastmod>
+    <loc>http://blog.ehmiiz.tech/posts/hobbit/</loc>
+    <lastmod>2021-02-07T12:39:23+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/lotr-rotk/</loc>
-    <lastmod>2021-02-07T12:49:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/life-3.0/</loc>
-    <lastmod>2021-02-07T12:23:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://blog.ehmiiz.tech/about/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://blog.ehmiiz.tech/coming/</loc>
+    <lastmod>2020-03-01T07:13:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://blog.ehmiiz.tech/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.ehmiiz.tech/tags/</loc>
   </url>
   
 </urlset>
